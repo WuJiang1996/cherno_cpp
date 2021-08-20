@@ -1,0 +1,2 @@
+C:\Users\wuj\Desktop\cherno_cpp\27inherition\Debug\27inherition.exe
+C:\Users\wuj\Desktop\cherno_cpp\27inherition\Debug\27inherition.pdb

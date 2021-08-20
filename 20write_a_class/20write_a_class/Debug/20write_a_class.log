@@ -1,2 +1,3 @@
 ﻿  Main.cpp
-  20write_a_class.vcxproj -> C:\Users\wuj\Desktop\repos\20write_a_class\Debug\20write_a_class.exe
+c:\users\wuj\desktop\cherno_cpp\20write_a_class\20write_a_class\main.cpp(40): error C2510: “log”:“::”的左边必须是类/结构/联合
+c:\users\wuj\desktop\cherno_cpp\20write_a_class\20write_a_class\main.cpp(40): error C2065: “LevelWarning”: 未声明的标识符
